@@ -8,7 +8,7 @@ certifi==2019.9.11
 cffi==1.13.1
 chardet==3.0.4
 constantly==15.1.0
-cryptography==2.8
+cryptography==3.2
 cssselect==1.1.0
 elasticsearch==6.8.1
 elasticsearch-dsl==6.0.0
