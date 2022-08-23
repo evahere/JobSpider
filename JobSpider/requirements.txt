@@ -34,7 +34,7 @@ Markdown==3.1.1
 mock==3.0.5
 mouse==0.7.0
 mysqlclient==1.4.6
-numpy==1.16.6+mkl
+numpy==1.22.0
 oauthlib==3.1.0
 opt-einsum==3.1.0
 parsel==1.5.2
