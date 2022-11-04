@@ -73,7 +73,7 @@ tensorflow==1.14.0
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 Theano==1.0.4
-Twisted==19.10.0
+Twisted==22.10.0
 urllib3==1.25.7
 w3lib==1.21.0
 Werkzeug==0.16.0
